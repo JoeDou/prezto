@@ -17,10 +17,15 @@ version is 4.3.11.
      zsh
      ```
 
+  1. Launch Zsh:
+     ```console
+     brew install figlet
+     ```
+
   2. Clone the repository:
 
      ```console
-     git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+     git clone --recursive https://github.com/JoeDou/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
      ```
 
   3. Create a new Zsh configuration by copying the Zsh configuration files
